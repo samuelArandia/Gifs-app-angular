@@ -1,6 +1,7 @@
 # GifsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
+![image](https://github.com/samuelArandia/Gifs-app-angular/assets/83564327/4d373f05-badd-48a1-ae79-e3bd72cc8c31)
 
 ## Development server
 
